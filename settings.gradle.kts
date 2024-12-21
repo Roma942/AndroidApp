@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Application"
 include(":app")
- 
+include(":app:9unit")
+include(":basic-android-kotlin-compose-training-dessert-release-main")
